@@ -26,6 +26,12 @@ Under the hood, it leverages a highly optimized **libmpv** rendering stack and s
 - **Advanced Caching & Persistence**: Employs a dual-store SwiftData architecture to separate heavy, high-churn content (EPG/VODs) from lightweight, syncable data (Accounts), preventing CloudKit quota exhaustion.
 - **Robust Media Handling**: Custom SSL-bypassing image pipelines to handle self-signed certificates commonly found on IPTV providers, backed by memory and disk caching via Kingfisher.
 
+## 🎫 Support Tickets
+
+If you encounter any bugs, need help, or have feature requests, please submit a support ticket via our Issue Tracker:
+
+👉 **[Submit a Support Ticket](https://github.com/SeMoOo/SoOoMa-TV-Support/issues/new/choose)**
+
 ## 📸 Screenshots
 
 | Startup & Login | Home Dashboard | Category Selection | Video Player & EPG |
