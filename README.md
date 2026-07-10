@@ -22,11 +22,4 @@ To get help, please submit a ticket by following these steps:
 
 Our support team will review your ticket and reply to you directly on the issue page as soon as possible!
 
----
-
-## 📸 App Previews
-
-| Startup & Login | Home Dashboard | Category Selection | Video Player & EPG |
-|:---:|:---:|:---:|:---:|
-| <img src="screenshot_login.png" width="200" /> | <img src="screenshot_dashboard.png" width="200" /> | <img src="screenshot_category.png" width="200" /> | <img src="screenshot_player.png" width="200" /> |
 <style> footer, .site-footer, .page-footer, a[href*="/edit/"] { display: none !important; } </style>
