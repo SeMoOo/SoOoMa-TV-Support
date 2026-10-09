@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SoOoMaTest.channel" tvg-name="SoOoMa EPG Test - ID Match" group-title="EPG Test",SoOoMa EPG Test - ID Match
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="nonexistent.channel" tvg-name="SoOoMa EPG Test - Name Match" group-title="EPG Test",SoOoMa EPG Test - Name Match
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#soooma-name-match
